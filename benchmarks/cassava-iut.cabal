@@ -1,7 +1,7 @@
 Name:                cassava-iut
 Version:             0
 Synopsis:            benchmarks for cassava
-Homepage:            https://github.com/hvr/cassava
+Homepage:            https://github.com/haskell-hvr/cassava
 License:             BSD3
 Maintainer:          hvr@gnu.org
 Build-type:          Simple

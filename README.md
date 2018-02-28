@@ -1,4 +1,4 @@
-# `cassava`: A CSV parsing and encoding library [![Hackage](https://img.shields.io/hackage/v/cassava.svg)](https://hackage.haskell.org/package/cassava) [![Build Status](https://travis-ci.org/hvr/cassava.svg)](https://travis-ci.org/hvr/cassava)
+# `cassava`: A CSV parsing and encoding library [![Hackage](https://img.shields.io/hackage/v/cassava.svg)](https://hackage.haskell.org/package/cassava) [![Build Status](https://travis-ci.org/haskell-hvr/cassava.svg)](https://travis-ci.org/haskell-hvr/cassava)
 
 **Please refer to the [package description](https://hackage.haskell.org/package/cassava#description) for an overview of `cassava`.**
 
@@ -64,7 +64,7 @@ main = do
             putStrLn $ name p ++ " earns " ++ show (salary p) ++ " dollars"
 ```
 
-You can find more code examples in the [`examples/` folder](https://github.com/hvr/cassava/tree/master/examples) as well as smaller usage examples in the [`Data.Csv` module documentation](https://hackage.haskell.org/package/cassava/docs/Data-Csv.html).
+You can find more code examples in the [`examples/` folder](https://github.com/haskell-hvr/cassava/tree/master/examples) as well as smaller usage examples in the [`Data.Csv` module documentation](https://hackage.haskell.org/package/cassava/docs/Data-Csv.html).
 
 ## Project Goals for `cassava`
 
